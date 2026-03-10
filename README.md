@@ -1,3 +1,7 @@
+Full version available here:
+
+https://computaflare.gumroad.com/l/gobxgt
+
 RetroTV is a personal media center that lets you organize and enjoy all your movies, series, videos, and music in one place, privately and without relying on external services.
 
 You can use it on:
@@ -43,7 +47,7 @@ What does this product include?
 ✔️ Complete RetroTV system
 ✔️ Step-by-step tutorial for installation and usage
 ✔️ Guide to add:
-
+✔️ apk for smartphones, smart tv, etc.
 
 
 
@@ -73,3 +77,11 @@ optimize media files
 
 
 enable playback on older or low-performance devices
+
+
+
+
+Full version available here:
+
+https://computaflare.gumroad.com/l/gobxgt
+
