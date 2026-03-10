@@ -49,7 +49,8 @@ The complete RetroTV system is available here:
 
 This GitHub repository only provides information about the project.
 
-
+RetroTV does not include any copyrighted media.
+Users must provide their own content.
 
 Full version available here:
 
