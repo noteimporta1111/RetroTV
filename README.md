@@ -1,83 +1,53 @@
-Full version available here:
+# RetroTV – Personal Media Center
 
-https://computaflare.gumroad.com/l/gobxgt
+RetroTV is a personal multimedia system that lets you organize and enjoy your movies, series, videos and music in one place — privately and without relying on external streaming services.
 
-RetroTV is a personal media center that lets you organize and enjoy all your movies, series, videos, and music in one place, privately and without relying on external services.
+It works on:
 
-You can use it on:
+📱 Mobile phones  
+📺 Smart TVs  
+💻 Computers  
 
-📱 Mobile phones
-📺 Smart TVs
-💻 Computers
+---
 
-
-
-What is RetroTV for?
+## What is RetroTV for?
 
 RetroTV allows you to:
 
+✔ Organize all your media in one system  
+✔ Resume movies and series from where you left off  
+✔ Play videos and music easily  
+✔ Use your own library without subscriptions  
+✔ Run even on older or low-performance devices  
 
+It is perfect if you want a **Netflix-style experience but completely personal and local**.
 
+---
 
+## What does the full version include?
 
-Keep all your media content in a single system
+✔ Complete RetroTV system  
+✔ Step-by-step installation tutorial  
+✔ Guide to add movies, series and music  
+✔ APK for smartphones and Smart TVs  
 
+### Custom mini-tools included
 
+Tools developed by the author to:
 
-Resume movies and series from where you left off
+✔ Convert movies and videos  
+✔ Optimize media files  
+✔ Improve playback on low-resource devices  
 
+---
 
+## Get the Full Version
 
-Play videos and music in an organized way
+The complete RetroTV system is available here:
 
+👉 https://computaflare.gumroad.com/l/gobxgt
 
-
-Use your own library, with no subscriptions
-
-
-
-Run even on old or low-resource devices
-
-It’s ideal if you want a streaming-style system, but personal and local.
-
-
-
-What does this product include?
-
-✔️ Complete RetroTV system
-✔️ Step-by-step tutorial for installation and usage
-✔️ Guide to add:
-✔️ apk for smartphones, smart tv, etc.
-
-
-
-
-movies
-
-
-
-series
-
-
-
-music
-
-✔️ Custom mini-tools (developed by myself) to:
-
-
-
-
-
-convert movies and videos
-
-
-
-optimize media files
-
-
-
-enable playback on older or low-performance devices
-
+This GitHub repository only provides information about the project.
 
 
 
